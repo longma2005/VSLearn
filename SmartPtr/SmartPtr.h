@@ -35,6 +35,7 @@ public:
 		return *this;
 	}
 
+	// É¾³ı¶ÔÏó
 	~SmartPtr()
 	{
 		decUse();
